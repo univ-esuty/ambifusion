@@ -1,0 +1,11 @@
+move:
+  ratio: 0.4
+  scale: 0.25
+re_scale:
+  ratio: 0.1
+  min_scale: -0.15
+  max_scale: 0.15
+rotate:
+  ratio: 0.0
+  max_angle: 0
+
