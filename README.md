@@ -33,6 +33,13 @@ Replace all pseud-weights file `weight_name.txt` with downloaded real-weights fi
   
   
 ## Demo
+## Gradio demo is available.
+1. Start gradio web app as following.
+```
+python demo.py
+```
+2. Access "127.0.0.1" with your web browser.
+
 #### Make ambigrams
 1. Set `TestConfigs` in `ambigram_random_sample.py`.
 2. Run the sampling code as following.
