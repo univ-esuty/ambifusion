@@ -38,7 +38,7 @@ Replace all pseud-weights file `weight_name.txt` with downloaded real-weights fi
 ```
 python demo.py
 ```
-2. Access "127.0.0.1" with your web browser.
+2. Access "127.0.0.1:11111" with your web browser.
 
 #### Make ambigrams
 1. Set `TestConfigs` in `ambigram_random_sample.py`.
