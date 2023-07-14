@@ -33,7 +33,7 @@ Replace all pseud-weights file `weight_name.txt` with downloaded real-weights fi
   
   
 ## Demo
-## Gradio demo is available.
+#### Gradio demo is available.
 1. Start gradio web app as following.
 ```
 python demo.py
