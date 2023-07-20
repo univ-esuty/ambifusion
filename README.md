@@ -2,7 +2,7 @@
 This is an official repogitory for the paper "Ambigram Generation by a Diffusion model". This paper is accepted at ICDAR 2023. 
 - paper link: [arXiv](https://arxiv.org/abs/2306.12049)
   
-【 UPDATE 】
+【 UPDATE 】  
 2023/07/20: [ambifusion2](https://github.com/univ-esuty/ambifusion2) is open. This method can generate ambigrams with any image pair by specifying two prompts as a pair.
   
 ## About the Paper
