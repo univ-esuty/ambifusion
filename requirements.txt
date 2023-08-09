@@ -26,3 +26,4 @@ torchinfo
 hydra
 hydra-optuna-sweeper
 mlflow
+https://github.com/NVlabs/stylegan2/tree/master/dnnlib
